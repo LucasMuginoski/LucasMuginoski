@@ -5,7 +5,8 @@ Eu sou estudante de Engenharia Eletrônica na UTFPR e também em Analise e Desen
 Sou estagiário de Testes de Software (Q.A) onde atuo como tester híbrido, realizando testes manuais e testes automáticos. 
   
 Decidi utilizar esse perfil do GitHub para apresentar melhor os conhecimentos que possuo e também os que estou desenvolvendo.
-Atualmente tenho bons conhecimentos em C e estou estudando Java, e também pretendo retomar ao Python logo em seguida.
+Atualmente tenho me dedicado ao estudo de Java e de python para automação de testes.
+Futuramente pretendo estudar desenvolvimento web de maneira full-stack para dominar tecnologias Front end e Back end.
   
 <div align="center">
   <a href="https://github.com/LucasMuginoski">
