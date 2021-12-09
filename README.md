@@ -1,10 +1,10 @@
 👋 Olá, Eu sou o Lucas e seja bem vindo ao meu repositório no GitHub.
 
-Eu sou estudante de Engenharia Eletrônica na UTFPR e também em Analise e Desenvolvimento de Sistemas na Estácio.
+Eu sou estudante de Analise e Desenvolvimento de Sistemas na Estácio.
 
-Sou estagiário de Testes de Software (Q.A) onde atuo como tester híbrido, realizando testes manuais e testes automáticos. 
+Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, principalmente usando do RobotFramework. Fui estagiário de QA durante seis meses e obtive uma breve experiência com Selenium.
   
-Decidi utilizar esse perfil do GitHub para apresentar melhor os conhecimentos que possuo e também os que estou desenvolvendo.
+Decidi utilizar esse perfil do GitHub para armazenar meus materiais de estudo e apresentar os conhecimentos que possuo.
 Atualmente tenho me dedicado ao estudo de Java e de python para automação de testes.
 Futuramente pretendo estudar desenvolvimento web de maneira full-stack para dominar tecnologias Front end e Back end.
   
