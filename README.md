@@ -2,9 +2,7 @@
 
 Eu sou estudante de Analise e Desenvolvimento de Sistemas na Estácio.
 
-Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, usando principalmente Cypress e Robot Framework. Anteriormente fui estagiário de QA obtive uma breve experiência com Selenium.
-  
-Atualmente tenho me dedicado ao estudo de desenvolvimento web de maneira full-stack e também na linguagem python.
+Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, usando principalmente Cypress e Robot Framework. Anteriormente fui estagiário de QA obtive uma breve experiência com Selenium. Tenho me dedicado ao estudo de desenvolvimento web de maneira full-stack e também na linguagem python.
   
 <div align="center">
   <a href="https://github.com/LucasMuginoski">
