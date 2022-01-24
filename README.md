@@ -2,11 +2,9 @@
 
 Eu sou estudante de Analise e Desenvolvimento de Sistemas na Estácio.
 
-Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, principalmente usando do RobotFramework. Fui estagiário de QA durante seis meses e obtive uma breve experiência com Selenium.
+Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, usando principalmente Cypress e Robot Framework. Anteriormente fui estagiário de QA obtive uma breve experiência com Selenium.
   
-Decidi utilizar esse perfil do GitHub para armazenar meus materiais de estudo e apresentar os conhecimentos que possuo.
-Atualmente tenho me dedicado ao estudo de Java e de python para automação de testes.
-Futuramente pretendo estudar desenvolvimento web de maneira full-stack para dominar tecnologias Front end e Back end.
+Atualmente tenho me dedicado ao estudo de desenvolvimento web de maneira full-stack e também na linguagem python.
   
 <div align="center">
   <a href="https://github.com/LucasMuginoski">
