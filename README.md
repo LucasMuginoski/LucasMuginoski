@@ -1,8 +1,8 @@
 👋 Olá, Eu sou o Lucas e seja bem vindo ao meu repositório no GitHub.
 
-Eu sou estudante de Analise e Desenvolvimento de Sistemas na Estácio.
+Eu sou estudante de Analise e Desenvolvimento de Sistemas.
 
-Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, usando principalmente Cypress e Robot Framework. Anteriormente fui estagiário de QA onde obtive uma breve experiência com Selenium. Tenho me dedicado ao estudo de desenvolvimento web de maneira full-stack e também na linguagem python.
+Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, usando principalmente Cypress e Robot Framework. Anteriormente fui estagiário de QA onde obtive uma breve experiência com Selenium. Tenho me dedicado ao estudo de desenvolvimento web de maneira full-stack e também para a área de qualidade.
   
 <div align="center">
   <a href="https://github.com/LucasMuginoski">
