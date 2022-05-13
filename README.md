@@ -1,8 +1,8 @@
 👋 Olá, Eu sou o Lucas e seja bem vindo ao meu repositório no GitHub.
 
-Eu sou estudante de Analise e Desenvolvimento de Sistemas.
+Eu sou estudante de Analise e Desenvolvimento de Sistemas. Futuro DEV-QA Full Stack
 
-Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, usando principalmente Cypress e Robot Framework. Anteriormente fui estagiário de QA onde obtive uma breve experiência com Selenium. Tenho me dedicado ao estudo de desenvolvimento web de maneira full-stack e também para a área de qualidade.
+Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes manuais e testes automáticos, usando principalmente Cypress e Robot Framework. Atuo em projetos Web e Mobile. Anteriormente fui estagiário de QA onde obtive uma breve experiência com Selenium. Tenho me dedicado ao estudo de desenvolvimento de maneira full-stack e também para a área de qualidade.
   
 <div align="center">
   <a href="https://github.com/LucasMuginoski">
@@ -16,6 +16,8 @@ Atualmente sou Analista de QA onde atuo como tester híbrido, realizando testes 
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Node-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Lucas-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
