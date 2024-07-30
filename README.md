@@ -1,10 +1,9 @@
-👋 Olá, Eu sou o Lucas e seja bem vindo ao meu repositório no GitHub.
+👋 Hi There! I am Lucas and Welcome to my GitHub repository!
 
-Eu sou formado em Análise e Desenvolvimento de Sistemas. E sou apaixonado por tecnologia, aprender coisas novas e superar novos desafios!
+I have 3 years of experience as a QA. During this time, I was responsible for reviewing design specifications in Figma and Confluence to understand the software product’s scope, creating test cases, reporting issues using Azure DevOps and Jira, acting in the implementation and execution procedures, and automating test scripts that validate and verify the quality of products using Cypress and Robot Framework, testing API using Postman and SWAGGER.
 
-Atualmente sou Analista de QA onde atuo de maneira híbrida, realizando testes manuais e testes automatizados, usando principalmente Cypress e Robot Framework. Atuo em projetos Web e Mobile. Anteriormente fui estagiário de QA onde obtive uma breve experiência com Selenium usando groovy. 
+I hold a System Analysis and Development degree and am fluent in English, with 2 years of experience working on international projects. I’m used to working using the agile method of Scrum. I’m focused on solving problems, always delivering results with quality and speed, a highly communicative person and constantly seeking opportunities to learn and collaborate with my team.
 
-Tenho me dedicado aos estudos na área de qualidade, atualmente estou estudando a linguagem Python e também para o exame de certificação CTFL (Certified Tester Foundation Level) da ISTQB (International Software Testing Qualifications Board).
   
 <div align="center">
   <a href="https://github.com/LucasMuginoski">
