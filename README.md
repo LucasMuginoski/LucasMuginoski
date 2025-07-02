@@ -1,6 +1,6 @@
 👋 Hi There! I am Lucas and Welcome to my GitHub repository!
 
-I have 3 years of experience as a QA. During this time, I was responsible for reviewing design specifications in Figma and Confluence to understand the software product’s scope, creating test cases, reporting issues using Azure DevOps and Jira, acting in the implementation and execution procedures, and automating test scripts that validate and verify the quality of products using Cypress and Robot Framework, testing API using Postman and SWAGGER.
+I have 4 years of experience as a QA. During this time, I was responsible for reviewing design specifications in Figma and Confluence to understand the software product’s scope, creating test cases, reporting issues using Azure DevOps and Jira, acting in the implementation and execution procedures, and automating test scripts that validate and verify the quality of products using Cypress and Robot Framework, testing API using Postman and SWAGGER.
 
 I hold a System Analysis and Development degree and am fluent in English, with 2 years of experience working on international projects. I’m used to working using the agile method of Scrum. I’m focused on solving problems, always delivering results with quality and speed, a highly communicative person and constantly seeking opportunities to learn and collaborate with my team.
 
